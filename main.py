@@ -1,6 +1,7 @@
 import os
 from code.yolo_detection import run_yolo
 from code.defogging_methods import apply_defogging
+from dehazing.bccr import dehaze as bccr
 
 DATA_DIR = "data/test/images"
 RESULTS_DIR = "results"
