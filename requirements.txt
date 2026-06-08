@@ -6,3 +6,4 @@ scikit-image
 opencv-python-headless
 ultralytics[onnxruntime]
 sklearn
+guided-filter-pytorch
